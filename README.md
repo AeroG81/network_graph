@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## Reference
+https://observablehq.com/@d3/gallery
+https://d3js.org/d3-force/many-body
+https://d3js.org/d3-zoom
+https://observablehq.com/@d3/force-directed-graph/2?intent=fork
+https://medium.com/@qdangdo/visualizing-connections-a-guide-to-react-d3-force-graphs-typescript-74b7af728c90
+https://observablehq.com/@d3/disjoint-force-directed-graph/2?intent=fork
+https://github.com/jin5354/d3-force-graph/blob/master/src/index.ts
+https://observablehq.com/@d3/drag-zoom?collection=@d3/d3-zoom
+https://github.com/ultrasonicsoft/d3-network-graph-editor/blob/main/src/App.tsx
