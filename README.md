@@ -48,12 +48,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ## Reference
-https://observablehq.com/@d3/gallery
-https://d3js.org/d3-force/many-body
-https://d3js.org/d3-zoom
-https://observablehq.com/@d3/force-directed-graph/2?intent=fork
-https://medium.com/@qdangdo/visualizing-connections-a-guide-to-react-d3-force-graphs-typescript-74b7af728c90
-https://observablehq.com/@d3/disjoint-force-directed-graph/2?intent=fork
-https://github.com/jin5354/d3-force-graph/blob/master/src/index.ts
-https://observablehq.com/@d3/drag-zoom?collection=@d3/d3-zoom
-https://github.com/ultrasonicsoft/d3-network-graph-editor/blob/main/src/App.tsx
+1. https://observablehq.com/@d3/gallery
+2. https://d3js.org/d3-force/many-body
+3. https://d3js.org/d3-zoom
+4. https://observablehq.com/@d3/force-directed-graph/2?intent=fork
+5. https://medium.com/@qdangdo/visualizing-connections-a-guide-to-react-d3-force-graphs-typescript-74b7af728c90
+6. https://observablehq.com/@d3/disjoint-force-directed-graph/2?intent=fork
+7. https://github.com/jin5354/d3-force-graph/blob/master/src/index.ts
+8. https://observablehq.com/@d3/drag-zoom?collection=@d3/d3-zoom
+9. https://github.com/ultrasonicsoft/d3-network-graph-editor/blob/main/src/App.tsx
